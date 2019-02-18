@@ -1,0 +1,4 @@
+requests
+argparse
+selenium
+fake-useragent
