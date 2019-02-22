@@ -1,4 +1,4 @@
-# ytviewer
+# YTViewer
 
 ## Description
 
