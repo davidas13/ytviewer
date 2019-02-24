@@ -54,7 +54,7 @@ Set proxies file (default: proxies loaded from web)
 
 ## Authors
 
-* **Michał "DeBos" Wróblewski** - Main Developer - [DeBos99](https://github.com/DeBos99)
+* **Michał Wróblewski** - Main Developer - [DeBos99](https://github.com/DeBos99)
 
 ## License
 
